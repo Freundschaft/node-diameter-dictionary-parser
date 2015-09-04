@@ -4,7 +4,7 @@
 	<command name="Re-Auth" code="258" vendor-id="None"/>
 	<command name="Credit-Control" code="272" vendor-id="None"/>
 
-	<avp name="CTM-radius-diameter-coorelation-id" code="25" mandatory="may" may-encrypt="yes" protected="may" vendor-bit="must" vendor-id="Connectem">
+	<avp name="CTM-radius-diameter-correlation-id" code="25" mandatory="may" may-encrypt="yes" protected="may" vendor-bit="must" vendor-id="Connectem">
 		<type type-name="OctetString"/>
 	</avp>
 
