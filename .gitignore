@@ -6,3 +6,5 @@ coverage
 dictionary.json
 .idea/jsLibraryMappings.xml
 .idea/libraries/node_diameter_dictionary_parser_node_modules.xml
+.idea/node-diameter-dictionary-parser.iml
+.idea/workspace.xml
